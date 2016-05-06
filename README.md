@@ -15,6 +15,9 @@ You should now have Node installed on your Mac. You can check by typing **node -
 
 Go to https://github.com/SamGabbay/tesla-siri-homekit
 
+Download this file for later...
+https://www.sendspace.com/file/49ldc9
+
 **STEP TWO: Logging into Tesla API**
 
 Now that NODE & NPM is installed on your Mac, you now have to enter your Tesla Username/Password into the **config.json** file in the main directory of the GitHub folder downloaded. You will need to replace every **USER_NAME** & **PASSWORD** with your Tesla Username & Password.
@@ -24,8 +27,9 @@ Now that NODE & NPM is installed on your Mac, you now have to enter your Tesla U
 RUN THIS IN TERMINAL
 
 1. **cd /PATH/OF/DOWNLOADED/GITHUB/FOLDER**
-2. **npm install**
-3. **DEBUG=* ./bin/homebridge -D -P ./homebridge-legacy-plugins**
+2. Add the folder from **https://www.sendspace.com/file/49ldc9** into the /homebridge-legacy-plugins folder.
+3. **npm install**
+4. **DEBUG=* ./bin/homebridge -D -P ./homebridge-legacy-plugins**
 
 If all is successful, then you should see the following 031-45-154.
 
