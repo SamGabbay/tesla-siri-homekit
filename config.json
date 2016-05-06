@@ -1,0 +1,76 @@
+{
+    "bridge": {
+        "name": "Energi Bridge HomeKit",
+        "username": "CC:22:3D:E3:CE:30",
+        "port": 51826,
+        "pin": "031-45-154"
+    },
+
+    "description": "Description 29857349857",
+
+    "accessories": [
+        {
+            "accessory": "Tesla",
+            "name": "Climate control",
+            "description": "Start or stop 8925879348",
+            "username": "USER_NAME",
+            "password": "PASSWORD"
+        },
+        {
+            "accessory": "TeslaSunroof",
+            "name": "Sunroof",
+            "description": "Start or stop 8925879348",
+            "username": "USER_NAME",
+            "password": "PASSWORD"
+        },
+{
+            "accessory": "TeslaUnlock",
+            "name": "Tesla",
+            "description": "Start or stop 8925879348",
+            "username": "USER_NAME",
+            "password": "PASSWORD"
+        },
+        {
+            "accessory": "TeslaSummon",
+            "name": "Summon",
+            "description": "Start or stop 8925879348",
+            "username": "USER_NAME",
+            "password": "PASSWORD"
+        },
+        {
+            "accessory": "TeslaSummonForward",
+            "name": "Summon Forward",
+            "description": "Start or stop 8925879348",
+            "username": "USER_NAME",
+            "password": "PASSWORD"
+        },
+        {
+            "accessory": "TeslaGarage",
+            "name": "Garage",
+            "description": "Start or stop 8925879348",
+            "username": "USER_NAME",
+            "password": "PASSWORD"
+        },
+        {
+            "accessory": "TeslaChargePort",
+            "name": "Charge Port",
+            "description": "Start or stop 8925879348",
+            "username": "USER_NAME",
+            "password": "PASSWORD"
+        },
+        {
+            "accessory": "TeslaHorn",
+            "name": "Honk Horn",
+            "description": "Start or stop 8925879348",
+            "username": "USER_NAME",
+            "password": "PASSWORD"
+        },
+        {
+            "accessory": "TeslaFlash",
+            "name": "Flash Lights",
+            "description": "Start or stop 8925879348",
+            "username": "USER_NAME",
+            "password": "PASSWORD"
+        }
+    ]
+}
