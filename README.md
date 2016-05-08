@@ -5,6 +5,9 @@ STEPS TO ACTIVATE SIRI TO CONTROL TESLA
 https://itunes.apple.com/us/app/energi-simple-remote-for-tesla/id1102475223?mt=8
 
 **VIDEO TUTORIAL**
+
+[![How To: Use Siri To Control Your Tesla](https://img.youtube.com/vi/bGa1qPmNAkI/0.jpg)](https://www.youtube.com/watch?v=bGa1qPmNAkI)
+
 https://www.youtube.com/watch?v=bGa1qPmNAkI
 
 
