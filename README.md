@@ -1,6 +1,13 @@
 STEPS TO ACTIVATE SIRI TO CONTROL TESLA
 
 
+**Download My App from the App Store.**
+https://itunes.apple.com/us/app/energi-simple-remote-for-tesla/id1102475223?mt=8
+
+**VIDEO TUTORIAL**
+https://www.youtube.com/watch?v=bGa1qPmNAkI
+
+
 **XCODE MUST BE INSTALLED ON THE MAC BEFORE ANYTHING.
 YOU CAN DOWNLOAD THE LATEST VERSION OF XCODE FROM THE MAC APP STORE**
 
